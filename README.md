@@ -10,3 +10,8 @@ See the [RFBitBanger project page](https://openresearch.institute/rfbitbanger-pr
 * [Batch 1 Kit Builders Notes](batch1/batch1_kit_builders_notes.pdf) (PDF) provides an introduction to the kit and advice about how to get started with the kit. Coming soon.
 * [Batch 1 Kit Inventory](batch1/batch1_photo_inventory.pdf) (PDF) shows a photo of every part in the kit.
 * [Batch 1 Winding the Toroids](batch1/batch1_winding_toroids.pdf) (PDF) explains how to wind all the toroids for the kit.
+* High resolution photos of the batch 1 boards:
+   * [Main Board Front](batch1/photos/boards/RFBB-main-board-1.jpg)
+   * [Main Board Back](batch1/photos/boards/RFBB-main-board-2.jpg)
+   * [Filter Board Front](batch1/photos/boards/RFBB-filter-board-1.jpg)
+   * [Filter Board Back](batch1/photos/boards/RFBB-filter-board-2.jpg)
