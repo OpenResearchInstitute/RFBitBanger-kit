@@ -12,7 +12,7 @@ See the [RFBitBanger project page](https://openresearch.institute/rfbitbanger-pr
    * [Batch 2 Kit Builders Notes](batch2/batch2_builder_notes.pdf) (PDF) (work in progress)
 * __Kit Inventory__ shows a photo of every part in the kit.
    * [Batch 1 Kit Inventory](batch1/batch1_photo_inventory.pdf) (PDF)
-   * [Batch 2 Kit Inventory](batch2/batch2_photo_inventory.pdf) (PDF) (work in progress)
+   * [Batch 2 Kit Inventory](batch2/batch2_photo_inventory.pdf) (PDF)
 * __Winding the Toroids__ explains how to wind all the toroids for the kit.
    * [Batch 1 Winding the Toroids](batch1/batch1_winding_toroids.pdf) (PDF)
    * [Batch 2 Winding the Toroids](batch2/batch2_winding_toroids.pdf) (PDF)
@@ -21,3 +21,8 @@ See the [RFBitBanger project page](https://openresearch.institute/rfbitbanger-pr
    * [Main Board Back](batch1/photos/boards/RFBB-main-board-2.jpg)
    * [Filter Board Front](batch1/photos/boards/RFBB-filter-board-1.jpg)
    * [Filter Board Back](batch1/photos/boards/RFBB-filter-board-2.jpg)
+* __High resolution photos__ of the batch 2 boards:
+   * [Main Board Front](batch2/photos/boards/RFBB-main-board-1.jpg)
+   * [Main Board Back](batch2/photos/boards/RFBB-main-board-2.jpg)
+   * [Filter Board Front](batch2/photos/boards/RFBB-filter-board-1.jpg)
+   * [Filter Board Back](batch2/photos/boards/RFBB-filter-board-2.jpg)
