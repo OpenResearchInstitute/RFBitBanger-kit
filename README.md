@@ -8,8 +8,8 @@ See the [RFBitBanger project page](https://openresearch.institute/rfbitbanger-pr
 ## Resources for RFBitBanger Kit Builders
 
 * __Kit Builders Notes__ provides an introduction to the kit and advice about how to get started with the kit.
-   * [Batch 1 Kit Builders Notes](batch1/batch1_builder_notes.pdf) (PDF) 
-   * [Batch 2 Kit Builders Notes](batch2/batch2_builder_notes.pdf) (PDF) (work in progress)
+   * [Batch 1 Kit Builders Notes](batch1/batch1_builder_notes.pdf) (PDF)
+   * [Batch 2 Kit Builders Notes](batch2/batch2_builder_notes.pdf) (PDF)
 * __Kit Inventory__ shows a photo of every part in the kit.
    * [Batch 1 Kit Inventory](batch1/batch1_photo_inventory.pdf) (PDF)
    * [Batch 2 Kit Inventory](batch2/batch2_photo_inventory.pdf) (PDF)
